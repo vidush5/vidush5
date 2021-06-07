@@ -1,4 +1,4 @@
-## Hi there, I'm [Vidush](https://vidushraj.herokuapp.com/) 👋
+## Hi to all! 👋 ![](https://visitor-badge.glitch.me/badge?page_id=vidush5.vidush5)
 
 I’m **Vidushraj**. I have completed my bachelors in Electrical and Electronic Engineering . I am particularly interested in Machine Learning and Deep Learning because it is such a rapidly evolving discipline.
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
