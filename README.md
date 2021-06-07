@@ -9,9 +9,3 @@ Visit to see my education, experience, projects, certifications.
 [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/internet.png">](https://vidushraj.herokuapp.com/)
 
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vidushraj5/)  [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@vidushraj5) 
-
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
