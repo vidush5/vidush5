@@ -9,3 +9,4 @@ Visit to see my education, experience, projects, certifications.
 [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/internet.png">](https://vidushraj.herokuapp.com/)
 
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vidushraj5/)  [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@vidushraj5) 
+<a href="https://medium.com/@vidushraj5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a>
