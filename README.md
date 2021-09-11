@@ -2,12 +2,9 @@
 
 I’m **Vidushraj**. I have completed my bachelors in Electrical and Electronic Engineering . I am particularly interested in Machine Learning and Deep Learning because it is such a rapidly evolving discipline.
 
-- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
-- 🌱 I’m currently learning - Object Detection using TF2 🤡
+- 🔭 I’m currently working on - Building custoner NER model using spacy. 🤓
+- 🌱 I’m currently learning - Cloud computing (AWS, Azure) and Big Data Technologies
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 🤔 I’m looking for help with - Nothing at the moment 😄
-- 💬 Ask me about - Anything 🤫
-- ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
