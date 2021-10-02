@@ -2,7 +2,7 @@
 
 I’m **Vidushraj**. I have completed my bachelors in Electrical and Electronic Engineering . I am particularly interested in Machine Learning and Deep Learning because it is such a rapidly evolving discipline.
 
-- 🔭 I’m currently working on - Building custoner NER model using spacy. 🤓
+- 🔭 I’m currently working on - Building custom NER model using spacy. 🤓
 - 🌱 I’m currently learning - Cloud computing (AWS, Azure) and Big Data Technologies
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
 
