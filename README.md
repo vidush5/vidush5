@@ -6,7 +6,6 @@ I’m **Vidushraj**. I have completed my bachelors in Electrical and Electronic 
 - 🌱 I’m currently learning - Cloud computing (AWS, Azure) and Big Data Technologies
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 ## More about me!😎
 Visit to see my education, experience, projects, certifications. 
