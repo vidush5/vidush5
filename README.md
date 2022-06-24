@@ -1,10 +1,10 @@
 ## Hi to all! 👋
 
-I’m **Vidushraj**. I have completed my bachelors in Electrical and Electronic Engineering . I am particularly interested in Machine Learning and Deep Learning because it is such a rapidly evolving discipline.
+I’m **Vidushraj**.  I hold a degree in B.Sc. Electrical & Electronic Engineering and I’m currently working as a Data Engineer at Axiata Digital Labs.
 
-- 🔭 I’m currently working on - Building custom NER model using spacy. 🤓
+- 🔭 I’m currently working on - Snowflake, Tableau, SQL, Hadoop, AWS, Impala. 🤓
 - 🌱 I’m currently learning - Cloud computing (AWS, Azure) and Big Data Technologies
-- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
+- 👯 I’m looking to collaborate on - Natural Language Processing Researches.
 
 
 ## More about me!😎
