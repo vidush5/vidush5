@@ -3,7 +3,7 @@
 I’m **Vidushraj**.  I hold a degree in B.Sc. Electrical & Electronic Engineering and I’m currently working as a Data Engineer at Axiata Digital Labs.
 
 - 🔭 I’m currently working on - Snowflake, Tableau, SQL, Hadoop, AWS, Impala. 🤓
-- 🌱 I’m currently learning - Cloud computing (AWS, Azure) and Big Data Technologies
+- 🌱 I’m currently learning - Cloud computing (AWS, Azure, GCP) and Big Data Technologies
 - 👯 I’m looking to collaborate on - Natural Language Processing Researches.
 
 
