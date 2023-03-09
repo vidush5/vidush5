@@ -1,4 +1,6 @@
-👋 Hi there! I’m **Vidushraj**, an experienced data engineer with 3+ years of experience in building scalable, reliable, and performant data pipelines and systems.
+👋 Hi there! 
+
+I’m **Vidushraj**, an experienced data engineer with 3+ years of experience in building scalable, reliable, and performant data pipelines and systems.
 
 👨‍💻 Throughout my career, I have worked with a wide range of data tools and technologies and I'm always eager to learn new things and keep up with the latest developments in the field.
 
