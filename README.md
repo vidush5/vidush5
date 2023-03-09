@@ -20,9 +20,25 @@ Thanks for stopping by, and I look forward to connecting with you!
 - 👯 I’m looking to collaborate on - Data Analytics, Data Science and NLP Researches.
 
 
-## More about me!😎
-Visit to see my education, experience, projects, certifications. 
 
-[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/internet.png">](http://vidush.netlify.app/)    [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vidushraj5/) 
+### Visit to see my education, experience, projects, certifications. 
 
-[<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@vidushraj5)   [<img src="https://img.icons8.com/windows/64/000000/hackerrank.png"/>](https://www.hackerrank.com/TeamAgni_HA20?hr_r=1)
+[<img target="_blank" src="https://img.icons8.com/dusk/64/000000/internet.png">](http://vidush.netlify.app/)    
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vidushraj5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/saha-anirban8/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vidushraj5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirban.saha" height="30" width="40" /></a>
+<a href="https://medium.com/@vidushraj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirban-saha" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+1. **Programming Languages** : Python, SQL
+2. **Database Design & Management** : SQL (SQL Server Management Studio, Postgres, MySQL), NoSQL (MongoDB)
+3. **Data Visualization Tools** : Power BI, Tableau
+4. **Cloud Technologies** : AWS (EC2, S3, Amazon Sagemaker,AWS RedShift, AWS EMR, AWS Glue), Azure (Azure Data
+Factory, ADLS, Databricks, Azure Synapse Analytics, Azure Machine Learning Studio), GCP (BigQuery)
+5. **Big Data Technologies** : PySpark, Hadoop, Impala, Hive, Snowflake
+6. **Version Control** : Git, GitLab
+7. **Networking Tools** : Cisco Packet Tracer, GNS3, Wire Shark
